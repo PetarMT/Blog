@@ -1,12 +1,6 @@
 # Parchment
 A clean, single column blog template built for jekyll
 
-## Building Locally
-* Clone the repository
-* Run `bundle install`
-* Run `bundle exec jekyll serve`
-* Visit browser at `http://127.0.0.1:4000/parchment/`
-
 ## Usage
 
 * To use this as your GitHub Page, fork this repository, and
@@ -24,10 +18,6 @@ A clean, single column blog template built for jekyll
 
 * To add a profile picture, use class `profile-picture` around
   the image.
-
-## Contributing
-Pull requests are welcome. For major changes, please open an
-issue first to discuss what you would like to change.
 
 ## Credits
 Parchment is inspired from the resume theme
