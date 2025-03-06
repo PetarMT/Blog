@@ -1,13 +1,9 @@
-title: Parchment
+title: Pergament
 author: pro-panda
 subtitle: The life of a frustrated engineer
 
-url: "https://rahulbothra.com"
+url: "https://petarmt.github.io"
 baseurl: "/parchment"
-
-footer_only_homepage: true
-footer_url: "https://github.com/rhl-bthr"
-footer_text: "Theme by rhl-bthr"
 
 profile-picture: assets/profile.png
 favicon_location: assets/favicon.ico
@@ -18,7 +14,7 @@ sass:
     sass_dir: css
 
 navbar:
- - name: "About"
+ - name: "O meni"
    link: "about"
  - name: "Resume"
    absolute-link: "https://rahulbothra.com/cv.pdf"
