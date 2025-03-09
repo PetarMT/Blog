@@ -20,5 +20,5 @@ sass:
 navbar:
  - name: "O meni"
    link: "about"
- - name: "Resume"
+ - name: "Životopis"
    absolute-link: "https://www.youtube.com/watch?v=MMyESJ9xuCY"
