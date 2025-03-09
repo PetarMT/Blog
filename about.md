@@ -16,7 +16,7 @@ Ovo je moj neslužbeni blog. Pišem svašta i bilo šta.
 
 > Djela bez misli su bezumna, a misli bez djela su dvolična.
 
-> Sve su stvari jednostavne kad ih svedš na osnove.
+> Sve su stvari jednostavne kad ih svedeš na osnove.
 
 ### Contact Me
 
