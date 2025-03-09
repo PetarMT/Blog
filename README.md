@@ -1,7 +1,13 @@
-# Parchment
-A clean, single column blog template built for jekyll
+# Blog
+Neslužbeni blog PetraMT
 
-## Usage
+https://petarmt.github.io/Blog/
+
+---
+
+Informacije o Web-Stranici
+
+ Usage
 
 * To use this as your GitHub Page, fork this repository, and
   rename it to `<username>.github.io`. Your site will be live
@@ -19,9 +25,9 @@ A clean, single column blog template built for jekyll
 * To add a profile picture, use class `profile-picture` around
   the image.
 
-## Credits
+ Credits
 Parchment is inspired from the resume theme
 [Researcher](https://github.com/ankitsultana/researcher)
 
-## License
+ License
 [GNU GPL v3](LICENSE)
