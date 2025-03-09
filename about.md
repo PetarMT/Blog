@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Me
+title: O meni
 ---
 
 <img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}">
